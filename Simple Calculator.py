@@ -10,9 +10,9 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-print("Hello , I am a simple Calculator !")
+print("Hello , I am a Calculator !")
 print("Select operation:")
-print("1. Add")
+print("1. Addition")
 print("2. Subtract")
 print("3. Multiply")
 print("4. Divide")
@@ -52,7 +52,7 @@ def divide(x, y):
 
 print("Calculator")
 print("Select operation:")
-print("1. Add")
+print("1. Addition")
 print("2. Subtract")
 print("3. Multiply")
 print("4. Divide")
