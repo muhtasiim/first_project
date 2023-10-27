@@ -71,11 +71,11 @@ elif choice in ['7', '8', '9']:
     num = float(input("Enter an angle in degrees: "))
     
     if choice == '7':
-        print("Result:", sin(num))
+        print("Ans:", sin(num))
     elif choice == '8':
-        print("Result:", cos(num))
+        print("Ans:", cos(num))
     elif choice == '9':
-        print("Result:", tan(num))
+        print("Ans:", tan(num))
 
 else:
     print("Invalid input")
